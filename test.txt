@@ -1,0 +1,21 @@
+3-Point Saddle,FB_3_POINT_SADDLE.rfa,Fabber® - Assemblies,Conduit,2019,0.0.1
+Conduit Section,FB_STRAIGHT_CONDUIT.rfa,WHEATLAND TUBE™,Conduit,2019,0.0.1
+90° Back to Back,FB_BACK_TO_BACK_90_ELBOW.rfa,Fabber® - Assemblies,Conduit,2019,0.0.1
+PVC Section,FB_PVC_STRAIGHT_CONDUIT.rfa,CANTEX™,Conduit,2019,0.0.1
+Offset,FB_OFFSET.rfa,Fabber® - Assemblies,Conduit,2019,0.0.1
+4-Point Saddle,FB_4_POINT_SADDLE.rfa,Fabber® - Assemblies,Conduit,2019,0.0.1
+Kick,FB_KICK.rfa,Fabber® - Assemblies,Conduit,2019,0.0.1
+90° Elbow,FB_ELBOW.rfa,WHEATLAND TUBE™,Conduit,2019,0.0.1
+LB Condulet,FB_LB.rfa,EATON™ CROUSE-HINDS,Conduit Bodies,2019,0.0.1
+C Condulet,FB_C.rfa,EATON™ CROUSE-HINDS,Conduit Bodies,2019,0.0.1
+T Condulet,FB_T,EATON™ CROUSE-HINDS,Conduit Bodies,2019,0.0.1
+LL Condulet,FB_LL,EATON™ CROUSE-HINDS,Conduit Bodies,2019,0.0.1
+LR Condulet,FB_LR,EATON™ CROUSE-HINDS,Conduit Bodies,2019,0.0.1
+X Condulet,FB_X,EATON™ CROUSE-HINDS,Conduit Bodies,2019,0.0.1
+Raintight Connector,FB_RAINTIGHT_CONNECTOR.rfa,EATON™ CROUSE-HINDS,Conduit Fittings,2019,0.0.1
+Raintight Coupling,FB_RAINTIGHT_COUPLING.rfa,EATON™ CROUSE-HINDS,Conduit Fittings,2019,0.0.1
+Set Screw Connector,FB_SET SCREW_CONNECTOR.rfa,EATON™ CROUSE-HINDS,Conduit Fittings,2019,0.0.1
+Set Screw Coupling,FB_SET SCREW_COUPLING.rfa,EATON™ CROUSE-HINDS,Conduit Fittings,2019,0.0.1
+Compression Coupling,FB_COMPRESSION_COUPLING.rfa,EATON™ CROUSE-HINDS,Conduit Fittings,2019,0.0.1
+Compression Connector,FB_COMPRESSION_CONNECTOR.rfa,EATON™ CROUSE-HINDS,Conduit Fittings,2019,0.0.1
+RMC Coupling,FB_RMC_COUPLING.rfa,EATON™,Conduit Fittings,2019,0.0.1
